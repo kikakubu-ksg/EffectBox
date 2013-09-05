@@ -1,0 +1,9 @@
+C:\DEV\effectbox\EffectBox\EffectBox\bin\Debug\EffectBox.exe
+C:\DEV\effectbox\EffectBox\EffectBox\bin\Debug\EffectBox.pdb
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\EffectBox.Form1.resources
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\EffectBox.Properties.Resources.resources
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\EffectBox.exe
+C:\DEV\effectbox\EffectBox\EffectBox\obj\x86\Debug\EffectBox.pdb
